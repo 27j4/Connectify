@@ -3,7 +3,7 @@
 ## 🌟 Introduction
 This is a **full-stack** social media web application built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. The platform allows users to **create accounts, log in, register, and interact with posts**. Posts are uploaded to **Cloudinary** with **Multer**, and users can **like, comment, and delete their comments**. Additionally, there is a **dynamic follower-following system**, **real-time messaging with Socket.io**, and **group chats**.
 
-To enhance user experience, the platform uses **Gemini AI** for **automatic caption generation** for posts. The backend is deployed on **Render**, while the frontend is hosted on **Vercel**.
+To enhance user experience, the platform uses **Gemini AI** for **automatic caption generation** for posts.
 
 ---
 
