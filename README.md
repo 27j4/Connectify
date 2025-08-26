@@ -46,7 +46,7 @@ Posts are uploaded to **Cloudinary** via **Multer**, and the app also features a
 
 ### ⚡ Deployment
 - **Frontend** → Vercel  
-- **Backend** → Render  
+- **Backend** → Vercel  
 
 ---
 
