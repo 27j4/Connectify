@@ -79,4 +79,3 @@ For any queries or collaboration:
 
 ---
 
-✨ Built with ❤️ using the **MERN stack**
